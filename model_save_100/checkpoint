@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/haozhang/DeepMIMODetection_V3.3/model_save_100/DetNetmodel.cpkt"
+all_model_checkpoint_paths: "/home/haozhang/DeepMIMODetection_V3.3/model_save_100/DetNetmodel.cpkt"
